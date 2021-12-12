@@ -1,6 +1,10 @@
 ### "Fala, galera o/" !👋
 
-I'am Wesley Souza. I'm from Brazil and started in programation around 2012, but i stopped in 2018. Now we're just going to fly together.
+I'am Wesley Souza. I'm from Brazil and started in programation around 2012, but i stopped in 2016 and came back in 2018. Now we're just going to fly together.
+
+Dev ~ Full Stack with hard skill in Front-end (React, Vue, HTML5, CSS3 and more...)
+
+I'm a Software Engineer at @zapay-pagamentos o/
 
 Follow me 😋
 
