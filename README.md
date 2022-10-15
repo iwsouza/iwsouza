@@ -4,7 +4,7 @@ I'am Wesley Souza. I'm from Brazil and started in programation around 2012, but 
 
 Dev ~ Full Stack with hard skill in Front-end (React, Vue, HTML5, CSS3 and more...)
 
-I'm a Software Engineer at @zapay-pagamentos o/
+I'm a Software Engineer at @zapay-pagamentos, @ozinn and some more o/
 
 Follow me 😋
 
