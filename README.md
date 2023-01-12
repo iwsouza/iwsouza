@@ -2,7 +2,7 @@
 
 I'am Wesley Souza. I'm from Brazil and started in programation around 2012, but i stopped in 2016 and came back in 2018. Now we're just going to fly together.
 
-I'm a Software Engineer at @zapay-pagamentos, @ozinn and some more o/
+I'm a Software Engineer
 
 Follow me 😋
 
@@ -42,11 +42,6 @@ console.log(user);
 ```
 ____
 
-<div align="center">
-  <a href="https://github.com/iwsouza">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iwsouza&theme=dark&show_icons=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iwsouza&layout=compact&langs_count=7&theme=dark"/>
-</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Wesley-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Wesley-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
