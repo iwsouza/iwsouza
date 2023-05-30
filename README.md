@@ -13,7 +13,7 @@ Follow me 😋
 /*
 	Welcome, my dear
 */
-const user = {
+const user: UserType = {
   name: 'Wesley Souza',
   age: 25,
   job: [
