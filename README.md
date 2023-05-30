@@ -20,7 +20,8 @@ const user: UserType = {
     {
       hardSkills: [
         'Enterprising',
-        'Front-end Developer (JavaScript - ReactJS / React Native / Electron) / CSS / HTML',
+        'Front-end Software Engineer (JavaScript - ReactJS / React Native / Electron) / CSS / HTML',
+        'NextJS / Tailwind / Styled-Components / React Query / RRD V6 / ...',
         'Designer (Figma/ProCreate)',
         'Adobe Ps, Ae, Pr',
         'Back-end Developer - Node',
