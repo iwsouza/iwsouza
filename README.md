@@ -15,7 +15,7 @@ Follow me 😋
 */
 const user: UserType = {
   name: 'Wesley Souza',
-  age: 25,
+  age: 26,
   job: [
     {
       hardSkills: [
