@@ -13,30 +13,28 @@ Follow me 😋
 /*
 	Welcome, my dear
 */
-const user = [
-  {
-    name: 'Wesley Souza',
-    age: 25,
-    job: [
-      {
-        hardSkills: [
-          'Enterprising',
-          'Front-end Developer (JavaScript - ReactJS / React Native / Electron) / CSS / HTML',
-          'Designer (Figma/ProCreate)',
-          'Adobe Ps, Ae, Pr',
-          'Back-end Developer - Node',
-        ],
-        softSkills: [
-          'Self-taught',
-          'Curious',
-          'Crazy about work',
-          'I always like to learn',
-        ],
-      },
-    ],
-    freeTime: 'I like going to the gym and go to a bar',
-  },
-];
+const user = {
+  name: 'Wesley Souza',
+  age: 25,
+  job: [
+    {
+      hardSkills: [
+        'Enterprising',
+        'Front-end Developer (JavaScript - ReactJS / React Native / Electron) / CSS / HTML',
+        'Designer (Figma/ProCreate)',
+        'Adobe Ps, Ae, Pr',
+        'Back-end Developer - Node',
+      ],
+      softSkills: [
+        'Self-taught',
+        'Curious',
+        'Crazy about work',
+        'I always like to learn',
+      ],
+    },
+  ],
+  freeTime: 'I like going to the gym and go to a bar',
+};
 
 console.log(user);
 ```
