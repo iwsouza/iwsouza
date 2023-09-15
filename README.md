@@ -6,8 +6,7 @@ I'm a Software Engineer
 
 Follow me 😋
 
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/eiwsouza/)](https://www.instagram.com/eiwsouza/)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wesley-souza-932335179/)](https://www.linkedin.com/in/wesley-souza-932335179/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/eiwsouza/)](https://www.instagram.com/iwsouza/)
 
 ```js
 /*
