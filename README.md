@@ -14,7 +14,7 @@ Follow me 😋
 */
 const user: UserType = {
   name: 'Wesley Souza',
-  age: 26,
+  age: 28,
   job: [
     {
       hardSkills: [
@@ -23,7 +23,7 @@ const user: UserType = {
         'NextJS / Tailwind / Styled-Components / React Query / RRD V6 / ...',
         'Designer (Figma/ProCreate)',
         'Adobe Ps, Ae, Pr',
-        'Back-end Developer - Node',
+        'Back-end Developer - Node | Python | Go',
       ],
       softSkills: [
         'Self-taught',
